@@ -43,7 +43,7 @@ Using [use-package](https://github.com/jwiegley/use-package) with [straight.el](
 
 ~~~elisp
 (use-package advice-tools
-  :straight (advice-tools :type git :host github :repo "lordpretzel/lordpretzel")
+  :straight (advice-tools :type git :host github :repo "lordpretzel/advice-tools"))
 ~~~
 
 ### Source
